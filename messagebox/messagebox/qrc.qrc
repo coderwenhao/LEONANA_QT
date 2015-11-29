@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/QML">
+        <file>QML/MessageBox.qml</file>
+        <file>QML/Button.qml</file>
+    </qresource>
+    <qresource prefix="/IMAGE">
+        <file>IMAGE/ask.png</file>
+        <file>IMAGE/error.png</file>
+        <file>IMAGE/warning.png</file>
+    </qresource>
+</RCC>
